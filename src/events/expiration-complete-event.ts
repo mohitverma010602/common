@@ -6,3 +6,5 @@ interface ExpirationCompleteEvent {
     orderId: string;
   };
 }
+
+export { ExpirationCompleteEvent };
